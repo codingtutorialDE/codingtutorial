@@ -87,7 +87,8 @@ Verbessere deine Coding Erfahrung und bringe deine Karriere auf das nächste Lev
 <div class="row">
 <div class="col-sm-6 col-lg-4">
 <div class="single_special_cource">
-<img class="special_img" <div class="special_cource_text">
+<img class="special_img" 
+<div class="special_cource_text">
 <p class="btn_4">WordPress</p>
 <a href="videokurse/wordpress-in-wenigen-minuten-umziehen/index.html">
 <h3>WordPress in wenigen Minuten umziehen</h3>
